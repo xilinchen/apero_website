@@ -8,7 +8,7 @@ images:
 - img/Xilin.jpg
 show_action_link: true
 show_social_links: true
-subtitle: Use data and science to make evidence-based decisions
+subtitle: Using data and science to make evidence-based decisions
 text_align_left: false
 title: Xilin Chen
 type: home

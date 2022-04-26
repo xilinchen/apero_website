@@ -29,7 +29,7 @@ enableEmoji = true
     
 [params]
   orgName = "Xilin Chen"
-  orgLocal = "Anywhere"
+  orgLocal = "Ann Arbor, MI"
   description = "A modern, beautiful, and easily configurable blog theme for Hugo."
  # favicon = "/img/favicon.ico"
  # logo = "/img/blogophonic-mark-dark.png"
@@ -48,7 +48,7 @@ enableEmoji = true
   # use a built-in color theme
   # one of: forest / grayscale / peach / plum /
   #         poppy / sky / violet / water 
-  theme = "plum"
+  theme = "peach"
   
   # or, leave theme empty & make your own palette
   # see docs at https://hugo-apero.netlify.app/blog/color-themes/
@@ -120,6 +120,11 @@ enableEmoji = true
     title = "Project Portfolio"
     url = "/project/"
     weight = 2
+  [[menu.header]]
+    name = "Resume"
+    title = "Resume"
+    url = "/files/cv.pdf"
+    weight = 3
  # [[menu.header]]
  #   name = "Talks"
  #   title = "Talks"
