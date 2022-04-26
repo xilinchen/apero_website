@@ -115,21 +115,17 @@ enableEmoji = true
  #  title = "Blog"
  #  url = "/blog/"
  #  weight = 2
-  [[menu.header]]
-    name = "Projects"
-    title = "Project Portfolio"
-    url = "/project/"
-    weight = 2
+
   [[menu.header]]
     name = "Resume"
     title = "Resume"
     url = "/files/cv.pdf"
     weight = 3
- # [[menu.header]]
- #   name = "Talks"
- #   title = "Talks"
- #   url = "/talk/"
- #   weight = 4
+  [[menu.header]]
+    name = "Talks"
+    title = "Talks"
+    url = "/talk/"
+    weight = 2
  # [[menu.header]]
  #   name = "A collection"
  #   title = "A collection"
