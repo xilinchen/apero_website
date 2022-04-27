@@ -1,6 +1,6 @@
 ---
 ## Configure sidebar content in narrow column
-author: "Xilin Chen ｜ 陈熙琳"
+author: Xilin Chen | 陈熙琳
 role: "Data Scientist"
 avatar_shape: square # circle, square, rounded, leave blank to exclude
 show_social_links: true # specify social accounts in site config
