@@ -7,7 +7,7 @@ cascade:
     show_sidebar_adunit: true
     text_link_label: View all projects
     text_link_url: /project/
-description: This section contains published academic papers, ongoing research and some fun visualizations. Hope you find them fun to look at too.
+description: This section contains published academic papers, ongoing research, packages and fun visualizations. Hope you find them fun to look at.
 layout: list-grid
 show_author_byline: true
 show_button_links: false

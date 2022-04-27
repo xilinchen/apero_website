@@ -7,11 +7,11 @@ number_categories: 0 # set to zero to exclude
 show_intro: true
 intro: |
 
-  Hi, I am Xilin. It's pronounced as She-Lin(She -first tone, Lin -3rd tone for these who know). My Chinese name writes as 陈熙琳. I am currently working as a senior statistician at the [Center for Surgical Training and Research](https://medicine.umich.edu/dept/surgery/news/archive/201903/center-surgical-training-research) at the University of Michigan. In my current position, I work with a group of smart people to help improve surgical education in the US and around the world!
+  Hi, I am Xilin. It's pronounced as She-Lin. For these who know Pinyin, she is first tone and Lin is 2nd tone :）. I am a senior statistician at the Center for Surgical Training and Research at the [University of Michigan](https://umich.edu/). In my current position, I work with a group of smart people to help improve surgical education in the US and around the world!
 
-  I'm originally from [Chengdu](https://en.wikipedia.org/wiki/Chengdu) and moved to the U.S. many years ago for my master's degree. My career has been majorly focus on healthcare related research including substance abuse, trauma transportation and surgical education. I enjoy working in a diverse team to solve challenging problems. 
+  I'm originally from [Chengdu](https://en.wikipedia.org/wiki/Chengdu) and moved to the U.S. for my master's degree. I have been staying in the U.S. since then. My career has been majorly focus on data  analysis in  healthcare related research area including substance abuse, trauma transportation and surgical education. I enjoy working in a diverse team to solve challenging problems. 
 
-  In my free time, I like going for walks, gardening, cooking, and trying new restaurants! 
+  In my free time, I like going for walks, gardening, cooking, traveling and trying new restaurants! 
  
 # show_outro: true
 # outro: |

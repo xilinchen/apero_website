@@ -1,4 +1,4 @@
-baseURL = "https://xilinchentest.netlify.app/"
+baseURL = "https://xilinchen.netlify.app/"
 theme = "hugo-apero"
 languageCode = "en"
 title = "Xilin Chen"
