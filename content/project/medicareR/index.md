@@ -5,7 +5,7 @@ featured: true
 layout: single
 excerpt: "A R package to create analysis-ready datasets from Medicare data"
 title: medicareR
-subtitle: R package
+subtitle: An internal R package
 links:
 - icon: github
   icon_pack: fab
@@ -20,6 +20,25 @@ links:
 An open-sourced internal package that create analytic ready datasets from Medicare data. The code were designed specifically for the IHPI ,University of Michigan, Medicare data format. However, it can also be generalized to other medicare data format. This package is used at MEDLab at the department of surgery, University of Michigan.
 
 ---
+
+## Intro to Medicare Data for Research
+
+Medicare data is a claim database managed by the Centers for Medicare & Medicaid Services. It contained millions of claims per year. The data size is usually in a Terabyte unit. It's very challenging to work with medicare because it's not designed for research. Challenges included:
+
+- changing variable names each year
+- multiple components that contain very different information, for example PartA, B, C, D, etc.
+- hundreds of variales with millions of observations
+- variables need to be derived based on previous research findings
+- very expensive to buy
+- strict CMS rules of forbidding modern big data techniques (medicare will not let you have fun)
+- and on and on.... 
+
+If you are learning medicare data for research, I have benefited tremendously from the [ResDAC](https://resdac.org/) and their workshops. 
+
+
+---
+
+## How medicareR is helping our lab
 
 ### Medicare data education
 

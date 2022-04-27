@@ -5,6 +5,7 @@ role: "Data Scientist"
 avatar_shape: square # circle, square, rounded, leave blank to exclude
 show_social_links: true # specify social accounts in site config
 audio_link_label: "" # leave blank to exclude
+link_list_label: "Interested in" # bookmarks, elsewhere, etc.
 link_list:
 - name: Rstats
   url: https://www.tidyverse.org/
