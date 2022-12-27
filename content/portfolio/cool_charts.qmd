@@ -17,7 +17,7 @@ The plot demonstrates the wide distribution of cesarean rates among Michigan hos
 
 
 ```{r}
-knitr::include_graphics(here::here("~/Dropbox (University of Michigan)/xilin_portfolio/cs_by_hosp_cnts_compare_2021_mean.png"))
+knitr::include_graphics(here::here("static/img/protfolio/cs_by_hosp_cnts_compare_2021_mean.png"))
 ```
 
 ## Performance Improvement 
@@ -25,7 +25,7 @@ knitr::include_graphics(here::here("~/Dropbox (University of Michigan)/xilin_por
 This plot shows the hospitals with improved performance from 2021 to 2022. Since hospital sizes varies, I highlighted the high volume hospitals to put emphosize on them.
 
 ```{r}
-knitr::include_graphics(here::here("~/Dropbox (University of Michigan)/xilin_portfolio/CS_rates_decrease_hospitals_2021_22.png"))
+knitr::include_graphics(here::here("static/img/protfolio/CS_rates_decrease_hospitals_2021_22.png"))
 ```
 
 ## Ripening Path ways
@@ -33,7 +33,7 @@ knitr::include_graphics(here::here("~/Dropbox (University of Michigan)/xilin_por
 During the induction of labor processes, many pathways combinations can happen. It is still mostly unknown to our practitioners what pathways lead to lower risk of cesarean. The plot demonstrated the complexity of the processes.
 
 ```{r}
-knitr::include_graphics(here::here("~/Dropbox (University of Michigan)/xilin_portfolio/ripen_pathways_3.png"))
+knitr::include_graphics(here::here("static/img/protfolio/ripen_pathways_3.png"))
 ```
 
 
