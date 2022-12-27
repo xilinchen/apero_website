@@ -118,7 +118,7 @@ enableEmoji = true
    [[menu.header]]
     name = "Visulizations"
     title = "Visulizations"
-    url = "/portfolio/cool_charts.html"
+    url = "/portfolio/"
     weight = 3
   [[menu.header]]
     name = "Resume"
@@ -131,11 +131,11 @@ enableEmoji = true
  #   title = "A collection"
  #   url = "/collection/"
  #   weight = 5
- # [[menu.header]]
- #   name = "Elements"
- #   title = "Element Page"
- #   url = "/elements/"
- #   weight = 6
+  [[menu.header]]
+    name = "Elements"
+    title = "Element Page"
+    url = "/elements/"
+    weight = 6
     
 
 # see https://gohugo.io/about/hugo-and-gdpr/    
