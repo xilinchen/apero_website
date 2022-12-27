@@ -1,0 +1,41 @@
+---
+title: "Xilin's Cool Charts"
+author: "Xilin Chen"
+format:
+  html:
+    theme: lux
+execute:
+  echo: false
+  warning: false
+---
+
+I have made charts for manuscript publications, abstract, posters and executive reports. Here are some of the most interesting — and simple and colorful — charts I made. I thrive on the concept of fast iterations and minimal viable product to get things done.
+
+## Rates Distribution
+
+The plot demonstrates the wide distribution of cesarean rates among Michigan hospitals. The target rate reference line was used to show high vs. low performing hospitals. 
+
+
+```{r}
+knitr::include_graphics(here::here("~/Dropbox (University of Michigan)/xilin_portfolio/cs_by_hosp_cnts_compare_2021_mean.png"))
+```
+
+## Performance Improvement 
+
+This plot shows the hospitals with improved performance from 2021 to 2022. Since hospital sizes varies, I highlighted the high volume hospitals to put emphosize on them.
+
+```{r}
+knitr::include_graphics(here::here("~/Dropbox (University of Michigan)/xilin_portfolio/CS_rates_decrease_hospitals_2021_22.png"))
+```
+
+## Ripening Path ways
+
+During the induction of labor processes, many pathways combinations can happen. It is still mostly unknown to our practitioners what pathways lead to lower risk of cesarean. The plot demonstrated the complexity of the processes.
+
+```{r}
+knitr::include_graphics(here::here("~/Dropbox (University of Michigan)/xilin_portfolio/ripen_pathways_3.png"))
+```
+
+
+
+

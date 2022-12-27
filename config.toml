@@ -110,22 +110,21 @@ enableEmoji = true
     title = "About Blogophonic"
     url = "/about/"
     weight = 1
- # [[menu.header]]
- #   name = "Blog"
- #  title = "Blog"
- #  url = "/blog/"
- #  weight = 2
   [[menu.header]]
     name = "Projects"
     title = "Projects"
     url = "/project/"
     weight = 2
-
+   [[menu.header]]
+    name = "Visulizations"
+    title = "Visulizations"
+    url = "/portfolio/cool_charts.html"
+    weight = 3
   [[menu.header]]
     name = "Resume"
     title = "Resume"
     url = "/files/cv.pdf"
-    weight = 3
+    weight = 4
 
  # [[menu.header]]
  #   name = "A collection"

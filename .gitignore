@@ -36,3 +36,7 @@ vignettes/*.pdf
 *.knit.md
 
 .DS_Store
+
+/.quarto/
+
+content/portfolio/cool_charts_files
