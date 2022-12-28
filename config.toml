@@ -30,7 +30,7 @@ enableEmoji = true
 [params]
   orgName = "Xilin Chen"
   orgLocal = "Ann Arbor, MI"
-  description = "A modern, beautiful, and easily configurable blog theme for Hugo."
+  description = "Analytics manager at the Univeristy of Michigan"
  # favicon = "/img/favicon.ico"
  # logo = "/img/blogophonic-mark-dark.png"
   mainSections = []
